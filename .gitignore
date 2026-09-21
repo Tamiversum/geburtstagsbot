@@ -1,0 +1,7 @@
+birthdays.db
+birthdays.db-journal
+birthdays.db-wal
+birthdays.db-shm
+.env
+__pycache__/
+*.pyc
